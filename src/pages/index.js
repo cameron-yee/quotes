@@ -31,6 +31,8 @@ const MainPage = () => {
             <Head>
                 <title>Quotes</title>
 
+                <link rel="shortcut icon" href="/static/favicon.ico" />
+
                 <meta
                     name="viewport"
                     content="initial-scale=1.0, width=device-width"
