@@ -1,62 +1,91 @@
 [
-    {
-        "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
-        "person": "Bill Gates",
-        "subject": "software",
-        "tags": ["Computer Science"]
-    },
-    {
-        "quote": "There are only two hard things in Computer Science: cache invalidation and naming things.",
-        "person": "Phil Karlton",
-        "subject": "software",
-        "tags": ["Computer Science"]
-    },
-    {
-        "quote": "You're going to have to slap him in the balls with the Gospel.",
-        "person": "Randy Rosso",
-        "context": "Cru Gospel appointments",
-        "tags": ["Christian, Funny"]
-    },
-    {
-        "quote": "God whispers to us in our pleasures, speaks in our conscience, but shouts in our pains: it is his megaphone to rouse a deaf world.",
-        "person": "C.S. Lewis",
-        "source": "The Problem of Pain",
-        "tags": ["Christian"]
-    },
-    {
-        "quote": "No one cares how much you know until they know how much you care.",
-        "person": "Theodore Roosevelt (maybe)",
-        "context": "Youth ministry",
-        "tags": ["Food for Thought"]
-    },
-    {
-        "quote": "Why do you always say no? Because saying yes takes too much time.",
-        "person": "Scott Stanley's son (University of Denver)",
-        "context": "How to Strengthen Your Marriage Against Divorce; Prioritizing",
-        "tags": ["Food for Thought"]
-    },
-    {
-        "quote": "People don't understand home until they leave.",
-        "person": "Unknown",
-        "context": "Abstract Season 2 Episode 2",
-        "tags": ["Food for Thought"]
-    },
-    {
-        "quote": "To understand innocence is it's loss.",
-        "person": "Unknown",
-        "context": "Unknown",
-        "tags": ["Food for Thought"]
-    },
-    {
-        "quote": "We criticize the guy who fed too much sugar to starving children rather than criticizing the thousands who fed them nothing.",
-        "person": "Francis Chan",
-        "context": "You And Me Forever",
-        "tags": ["Christian"]
-    },
-    {
-        "quote": "That's not sanctification, that's just fatigue.",
-        "person": "Mark Bates",
-        "context": "Old people looking down on younger people.",
-        "tags": ["Christian"]
-    }
+  {
+    "quote": "I suck.",
+    "person": "Eric Frank",
+    "subject": "Truth",
+    "tags": [
+      "Whatever",
+      "Shut Up"
+    ]
+  },
+  {
+    "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
+    "person": "Bill Gates",
+    "subject": "software",
+    "tags": [
+      "Computer Science"
+    ]
+  },
+  {
+    "quote": "There are only two hard things in Computer Science: cache invalidation and naming things.",
+    "person": "Phil Karlton",
+    "subject": "software",
+    "tags": [
+      "Computer Science"
+    ]
+  },
+  {
+    "quote": "You're going to have to slap him in the balls with the Gospel.",
+    "person": "Randy Rosso",
+    "context": "Cru Gospel appointments",
+    "tags": [
+      "Christian, Funny"
+    ]
+  },
+  {
+    "quote": "God whispers to us in our pleasures, speaks in our conscience, but shouts in our pains: it is his megaphone to rouse a deaf world.",
+    "person": "C.S. Lewis",
+    "source": "The Problem of Pain",
+    "tags": [
+      "Christian"
+    ]
+  },
+  {
+    "quote": "No one cares how much you know until they know how much you care.",
+    "person": "Theodore Roosevelt (maybe)",
+    "context": "Youth ministry",
+    "tags": [
+      "Food for Thought"
+    ]
+  },
+  {
+    "quote": "Why do you always say no? Because saying yes takes too much time.",
+    "person": "Scott Stanley's son (University of Denver)",
+    "context": "How to Strengthen Your Marriage Against Divorce; Prioritizing",
+    "tags": [
+      "Food for Thought"
+    ]
+  },
+  {
+    "quote": "People don't understand home until they leave.",
+    "person": "Unknown",
+    "context": "Abstract Season 2 Episode 2",
+    "tags": [
+      "Food for Thought"
+    ]
+  },
+  {
+    "quote": "To understand innocence is it's loss.",
+    "person": "Unknown",
+    "context": "Unknown",
+    "tags": [
+      "Food for Thought"
+    ]
+  },
+  {
+    "quote": "We criticize the guy who fed too much sugar to starving children rather than criticizing the thousands who fed them nothing.",
+    "person": "Francis Chan",
+    "context": "You And Me Forever",
+    "tags": [
+      "Christian"
+    ]
+  },
+  {
+    "quote": "That's not sanctification, that's just fatigue.",
+    "person": "Mark Bates",
+    "context": "Old people looking down on younger people.",
+    "tags": [
+      "Christian"
+    ]
+  }
 ]
