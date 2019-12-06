@@ -1,14 +1,5 @@
 [
   {
-    "quote": "I suck.",
-    "person": "Eric Frank",
-    "subject": "Truth",
-    "tags": [
-      "Whatever",
-      "Shut Up"
-    ]
-  },
-  {
     "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
     "person": "Bill Gates",
     "subject": "software",
