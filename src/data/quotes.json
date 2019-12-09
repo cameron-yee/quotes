@@ -1,9 +1,18 @@
 [
   {
+    "quote": "Money doesn't make you happy. It just makes you unhappy in a better section of town.",
+    "person": "David Siegal",
+    "subject": "The Queen of Versailles",
+    "tags": ""
+  },
+  {
     "quote": "Friendship is born at that moment when one person says to another: What! You too? I thought I was the only one.",
     "person": "C.S. Lewis",
     "subject": "Christian",
-    "tags": ["The Four Loves", "Book"]
+    "tags": [
+      "The Four Loves",
+      "Book"
+    ]
   },
   {
     "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
